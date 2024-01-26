@@ -1,0 +1,15 @@
+D:\Lesson1\Task1\bin\Debug\net8.0\Task1.exe
+D:\Lesson1\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\Lesson1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\Lesson1\Task1\bin\Debug\net8.0\Task1.dll
+D:\Lesson1\Task1\bin\Debug\net8.0\Task1.pdb
+D:\Lesson1\Task1\obj\Debug\net8.0\Task1.csproj.AssemblyReference.cache
+D:\Lesson1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\Lesson1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\Lesson1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\Lesson1\Task1\obj\Debug\net8.0\Task1.dll
+D:\Lesson1\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\Lesson1\Task1\obj\Debug\net8.0\Task1.pdb
+D:\Lesson1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\Lesson1\Task1\obj\Debug\net8.0\ref\Task1.dll
